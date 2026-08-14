@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1786669631 source:e:\arnob halder\c programming\practice codes\getting user output\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1786667889 source:e:\arnob halder\c programming\practice codes\working with numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
