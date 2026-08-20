@@ -3,6 +3,29 @@
 
 int main()
 {
-    printf("Hello world!\n");
-    return 0;
-}
+    double num1;
+    double num2;
+    char op;
+    printf ("Enter a number:");
+    scanf("%lf", & num1);
+      printf ("Enter operatior:");
+    scanf(" %c", &op);
+      printf ("Enter a number:");
+    scanf("%lf", & num2);
+    if(op == '+')
+    {
+        printf("%f", num1 +num2);
+    }
+     else if(op == '-')
+    {
+        printf("%f", num1 -num2);
+    }
+     else if(op == '*')
+    {
+        printf("%f", num1 *num2);
+    } else if(op == '/')
+    {
+        printf("%f", num1 /num2);
+    }else {
+        printf ("error");
+}}

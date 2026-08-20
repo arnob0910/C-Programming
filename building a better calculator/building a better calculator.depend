@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787216865 source:e:\arnob halder\c programming\practice codes\building a better calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

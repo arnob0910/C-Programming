@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1787218172 source:e:\arnob halder\c programming\practice codes\advace calculator 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
